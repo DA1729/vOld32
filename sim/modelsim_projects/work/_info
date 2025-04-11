@@ -1,0 +1,438 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/da999/intelFPGA/20.1/modelsim_ase/bin
+vALU
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1744143780
+!i10b 1
+!s100 Xmm1Q;7MJM5@8OIU@g:0?1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ik6khdfBc^OajQGE]clh:I1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 d/home/da999/vOld32/sim/modelsim_projects
+w1744143773
+8/home/da999/vOld32/rtl/core/alu/ALU.sv
+F/home/da999/vOld32/rtl/core/alu/ALU.sv
+!i122 139
+L0 1 117
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1744143780.000000
+!s107 /home/da999/vOld32/rtl/core/alu/ALU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/ALU.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@a@l@u
+vand_gate
+R0
+R1
+!i10b 1
+!s100 4<l<i?M[fhn7mOb6=?HnQ1
+R2
+INXjK`_7GF2h2HO:j[SFoZ3
+R3
+S1
+R4
+w1744142711
+8/home/da999/vOld32/rtl/core/alu/logic_circuits/and.sv
+F/home/da999/vOld32/rtl/core/alu/logic_circuits/and.sv
+!i122 123
+Z9 L0 1 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/logic_circuits/and.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/logic_circuits/and.sv|
+!i113 1
+R7
+R8
+vcomparator
+R0
+R1
+!i10b 1
+!s100 QB5YhTOKe0^Gh]<XT8jT_1
+R2
+INjl<f@eUaIhSR[d`GLjcW3
+R3
+S1
+R4
+w1744142800
+8/home/da999/vOld32/rtl/core/alu/logic_circuits/comp.sv
+F/home/da999/vOld32/rtl/core/alu/logic_circuits/comp.sv
+!i122 124
+L0 1 20
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/logic_circuits/comp.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/logic_circuits/comp.sv|
+!i113 1
+R7
+R8
+vCPA_adder
+R0
+R1
+!i10b 1
+!s100 1^gHMj4ThSemlM0bjUS[02
+R2
+I4Yn8b:08@eToWog7=N3N30
+R3
+S1
+R4
+w1744143287
+8/home/da999/vOld32/rtl/core/alu/arithmetic_circuits/CPA.sv
+F/home/da999/vOld32/rtl/core/alu/arithmetic_circuits/CPA.sv
+!i122 134
+L0 1 26
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/arithmetic_circuits/CPA.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/arithmetic_circuits/CPA.sv|
+!i113 1
+R7
+R8
+n@c@p@a_adder
+vleft_rotate
+R0
+R1
+!i10b 1
+!s100 ;EMYgh478b?8gUR3`1Tbn2
+R2
+IZTP0^EnF9HN=8Jz`?eLk13
+R3
+S1
+R4
+w1744131274
+8/home/da999/vOld32/rtl/core/alu/logic_circuits/left_rotate.sv
+F/home/da999/vOld32/rtl/core/alu/logic_circuits/left_rotate.sv
+!i122 125
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/logic_circuits/left_rotate.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/logic_circuits/left_rotate.sv|
+!i113 1
+R7
+R8
+vleft_shift
+R0
+R1
+!i10b 1
+!s100 O9iZeXEa]cBMl@Na22NTS1
+R2
+I;;2on1kL4?oZ<]gW]7abI1
+R3
+S1
+R4
+w1744131194
+8/home/da999/vOld32/rtl/core/alu/logic_circuits/left_shift.sv
+F/home/da999/vOld32/rtl/core/alu/logic_circuits/left_shift.sv
+!i122 126
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/logic_circuits/left_shift.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/logic_circuits/left_shift.sv|
+!i113 1
+R7
+R8
+vmux_20_1
+R0
+R1
+!i10b 1
+!s100 Zm`5Fm05h=`KN0gladc5U2
+R2
+IFDVa>dCjz:fiOKXo[:9hz1
+R3
+S1
+R4
+w1744143510
+8/home/da999/vOld32/rtl/core/alu/mux_20_1.sv
+F/home/da999/vOld32/rtl/core/alu/mux_20_1.sv
+!i122 136
+L0 1 47
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/mux_20_1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/mux_20_1.sv|
+!i113 1
+R7
+R8
+vmux_2_1
+R0
+R1
+!i10b 1
+!s100 2CS7D=88`lA_niI:O8NVR1
+R2
+I4<W^NC]?2XHjjfcDaOB1<1
+R3
+S1
+R4
+w1744141682
+8/home/da999/vOld32/rtl/core/alu/mux_2_1.sv
+F/home/da999/vOld32/rtl/core/alu/mux_2_1.sv
+!i122 137
+L0 1 15
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/mux_2_1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/mux_2_1.sv|
+!i113 1
+R7
+R8
+vmux_6_1
+R0
+R1
+!i10b 1
+!s100 lZl_l`9XiTGeVbOX2abYA0
+R2
+ILaFoVHALRl64De@na2D>M0
+R3
+S1
+R4
+w1744143582
+8/home/da999/vOld32/rtl/core/alu/mux_6_1.sv
+F/home/da999/vOld32/rtl/core/alu/mux_6_1.sv
+!i122 138
+L0 3 24
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/mux_6_1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/mux_6_1.sv|
+!i113 1
+R7
+R8
+vnand_gate
+R0
+R1
+!i10b 1
+!s100 zDOC9bM<:IgigfoPkjoJV1
+R2
+IVTj7^NzAD3=@BMW1BzJld3
+R3
+S1
+R4
+w1744142438
+8/home/da999/vOld32/rtl/core/alu/logic_circuits/nand.sv
+F/home/da999/vOld32/rtl/core/alu/logic_circuits/nand.sv
+!i122 127
+Z10 L0 1 8
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/logic_circuits/nand.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/logic_circuits/nand.sv|
+!i113 1
+R7
+R8
+vnor_gate
+R0
+R1
+!i10b 1
+!s100 Z8LOUniIfZ9];azDlS2f<0
+R2
+IzX9ePP=N5n:`;`@3=VH]A1
+R3
+S1
+R4
+w1744142698
+8/home/da999/vOld32/rtl/core/alu/logic_circuits/nor.sv
+F/home/da999/vOld32/rtl/core/alu/logic_circuits/nor.sv
+!i122 128
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/logic_circuits/nor.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/logic_circuits/nor.sv|
+!i113 1
+R7
+R8
+vor_gate
+R0
+R1
+!i10b 1
+!s100 zc:Ya_::TI6SO1BDmV5S<2
+R2
+IaV>9VGVE6XH=1AH1`LceZ0
+R3
+S1
+R4
+w1744142715
+8/home/da999/vOld32/rtl/core/alu/logic_circuits/or.sv
+F/home/da999/vOld32/rtl/core/alu/logic_circuits/or.sv
+!i122 129
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/logic_circuits/or.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/logic_circuits/or.sv|
+!i113 1
+R7
+R8
+vright_rotate
+R0
+R1
+!i10b 1
+!s100 1JWF5hM22`@R8KDca7Oba3
+R2
+Ifd]6QzjR3]TCzVC`@08;>3
+R3
+S1
+R4
+w1744131432
+8/home/da999/vOld32/rtl/core/alu/logic_circuits/right_rotate.sv
+F/home/da999/vOld32/rtl/core/alu/logic_circuits/right_rotate.sv
+!i122 130
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/logic_circuits/right_rotate.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/logic_circuits/right_rotate.sv|
+!i113 1
+R7
+R8
+vright_shift
+R0
+R1
+!i10b 1
+!s100 L]ETSdEAZTgXzZ?iim1Y01
+R2
+I5I0IAC@_o1h@[Vb@a>8KM2
+R3
+S1
+R4
+w1744131205
+8/home/da999/vOld32/rtl/core/alu/logic_circuits/right_shift.sv
+F/home/da999/vOld32/rtl/core/alu/logic_circuits/right_shift.sv
+!i122 131
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/logic_circuits/right_shift.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/logic_circuits/right_shift.sv|
+!i113 1
+R7
+R8
+vsub
+R0
+R1
+!i10b 1
+!s100 _<FNcY6Gl4L7:F6VI:>j^2
+R2
+I1<Al0036JnBA0Qz1Y5gBP1
+R3
+S1
+R4
+w1744143365
+8/home/da999/vOld32/rtl/core/alu/arithmetic_circuits/sub.sv
+F/home/da999/vOld32/rtl/core/alu/arithmetic_circuits/sub.sv
+!i122 135
+L0 1 18
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/arithmetic_circuits/sub.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/arithmetic_circuits/sub.sv|
+!i113 1
+R7
+R8
+vxnor_gate
+R0
+R1
+!i10b 1
+!s100 ho0W]3=g<VMzH6TM;4;nm0
+R2
+IF4:9LoKKE9gI?hZ9:joC31
+R3
+S1
+R4
+w1744142732
+8/home/da999/vOld32/rtl/core/alu/logic_circuits/xnor.sv
+F/home/da999/vOld32/rtl/core/alu/logic_circuits/xnor.sv
+!i122 132
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/logic_circuits/xnor.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/logic_circuits/xnor.sv|
+!i113 1
+R7
+R8
+vxor_gate
+R0
+R1
+!i10b 1
+!s100 z9EOWlFNcFRi6@QzCK^n_2
+R2
+IAhbOefgnbhB19Z3:bd>ZL3
+R3
+S1
+R4
+w1744142706
+8/home/da999/vOld32/rtl/core/alu/logic_circuits/xor.sv
+F/home/da999/vOld32/rtl/core/alu/logic_circuits/xor.sv
+!i122 133
+R10
+R5
+r1
+!s85 0
+31
+R6
+!s107 /home/da999/vOld32/rtl/core/alu/logic_circuits/xor.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/da999/vOld32/rtl/core/alu/logic_circuits/xor.sv|
+!i113 1
+R7
+R8
