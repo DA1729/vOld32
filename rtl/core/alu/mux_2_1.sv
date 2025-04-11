@@ -1,4 +1,4 @@
-module mux_2_1 #(parameter N = 8) (
+module mux_2_1 #(parameter N = 32) (
     input logic [4:0] sel,
     input logic s_ub, a_dd, 
     output logic d

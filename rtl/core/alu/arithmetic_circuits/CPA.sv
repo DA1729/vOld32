@@ -1,4 +1,4 @@
-module CPA_adder #(parameter N = 8)
+module CPA_adder #(parameter N = 32)
 (
     input logic [N-1:0] a, b,
     input logic c_in,
@@ -16,7 +16,7 @@ assign {c_out, s} = a + b + c_in;
 
 assign v = (a[N-1] & ~b[N-1] & ~s[N-1]) | (~a[N-1] & b[N-1] & s[N-1]);
 
-assign z_ = (s == 8'b0);
+assign z_ = (s == 32'b0);
 
 assign n = s[N-1];
 

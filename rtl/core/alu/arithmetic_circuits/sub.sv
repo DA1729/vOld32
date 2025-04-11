@@ -1,4 +1,4 @@
-module sub #(parameter N = 8)(
+module sub #(parameter N = 32)(
     input logic [N-1:0] a, b,
     output logic [N-1:0] y, 
     output logic [N-1:0] c_out, //flag
@@ -9,7 +9,7 @@ module sub #(parameter N = 8)(
 
 assign {c_out, y} = a - b;
 
-assign z_ = (y == 8'b0);
+assign z_ = (y == 32'b0);
 
 assign v = (a[N-1] != b[N-1]) && (y[N-1]  != a[N-1]);
 

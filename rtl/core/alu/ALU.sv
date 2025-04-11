@@ -1,4 +1,4 @@
-module ALU #(parameter N = 8) (
+module ALU #(parameter N = 32) (
     input logic [4:0] OpCode,
     input logic [N-1:0] a, b,
     input logic         cin,
@@ -34,8 +34,8 @@ CPA_gate add_output (.a(a), .b(b), .c(cin), .s(op_o1), .c_out(C_add), .v(V_add),
 sub sub_output (.a(a), .b(b), .y(op_o2), .c_out(C_sub), .z_(Z_sub), .v(V_sub), .n(N_sub)); // subtraction output and corresponding flags
 
 // setting the multiplier and division outputs to 0...
-assign op_o3 = 8'b0;
-assign op_o4 = 8'b0;
+assign op_o3 = 32'b0;
+assign op_o4 = 32'b0;
 
 // logic gate outputs
 

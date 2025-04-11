@@ -1,4 +1,4 @@
-module mux_20_1 #(parameter N = 8) (
+module mux_20_1 #(parameter N = 32) (
     input logic [4:0] sel,
     input logic [N-1:0] d0,
     input logic [N-1:0] d1,
@@ -40,7 +40,7 @@ case (sel)
     5'd17: d = d12;
     5'd18: d = d13;
     5'd19: d = d14;
-    default: d = 8'b0;
+    default: d = 32'b0;
 endcase
 end
 

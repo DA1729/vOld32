@@ -1,0 +1,19 @@
+# Loading project vOld32_ALU
+# Compile of CPA.sv was successful.
+# Compile of sub.sv was successful.
+# Compile of and.sv was successful.
+# Compile of comp.sv was successful.
+# Compile of left_rotate.sv was successful.
+# Compile of left_shift.sv was successful.
+# Compile of nand.sv was successful.
+# Compile of nor.sv was successful.
+# Compile of or.sv was successful.
+# Compile of right_rotate.sv was successful.
+# Compile of right_shift.sv was successful.
+# Compile of xnor.sv was successful.
+# Compile of xor.sv was successful.
+# Compile of ALU.sv was successful.
+# Compile of mux_2_1.sv was successful.
+# Compile of mux_6_1.sv was successful.
+# Compile of mux_20_1.sv was successful.
+# 17 compiles, 0 failed with no errors.

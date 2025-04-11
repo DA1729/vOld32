@@ -1,4 +1,4 @@
-module right_rotate #(parameter N = 8)(
+module right_rotate #(parameter N = 32)(
     input logic [N-1:0] a, 
     output logic [N-1:0] y
 );
